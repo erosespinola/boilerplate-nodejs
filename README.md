@@ -5,3 +5,7 @@ Basic setup for a node.js project that includes:
 - express 
 - jest
 - dotenv
+
+### Scripts
+`npm start`
+`npm test`
