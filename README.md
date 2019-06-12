@@ -7,5 +7,5 @@ Basic setup for a node.js project that includes:
 - dotenv
 
 ### Scripts
-`npm start`
-`npm test`
+- `npm start`
+- `npm test`
